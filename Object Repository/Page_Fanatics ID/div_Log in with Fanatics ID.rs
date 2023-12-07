@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in with Fanatics ID</name>
+   <tag></tag>
+   <elementGuidId>eb57159a-1396-4f4e-9ca8-b71bea058ada</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div/form/div[4]/div/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5c0d52c-2b90-469a-9f0e-8cb503578076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-space ant-space-horizontal ant-space-align-center </value>
+      <webElementGuid>f1f0d7bd-4fd5-49b5-acfd-06bd8d24248d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in with Fanatics ID</value>
+      <webElementGuid>5a0fe5e8-6a4a-497d-a816-9459e10084e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout Layout_layout__m8Vdf css-g9hr2g&quot;]/main[@class=&quot;ant-layout-content Layout_content__-XVhO Theme_dark__XLgYe css-g9hr2g&quot;]/div[@class=&quot;ContentLayout_contentLayout__K97Ef&quot;]/div[@class=&quot;flex-column&quot;]/form[@class=&quot;ant-form ant-form-horizontal css-g9hr2g&quot;]/div[@class=&quot;ant-form-item css-g9hr2g&quot;]/div[@class=&quot;ant-row ant-form-item-row css-g9hr2g&quot;]/div[@class=&quot;ant-col ant-form-item-control css-g9hr2g&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/button[@class=&quot;ant-btn css-1db654g ant-btn-round ant-btn-primary&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;]</value>
+      <webElementGuid>71c0538b-71de-45b0-aa66-8b55c756e17e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/form/div[4]/div/div/div/div/button/div</value>
+      <webElementGuid>3878926c-6791-4aab-8e71-d6972ed2cdf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::div[11]</value>
+      <webElementGuid>3510a147-598b-466a-8a87-3244314009ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create one now!'])[1]/preceding::div[1]</value>
+      <webElementGuid>45e1218e-b7ad-4b0c-b6f2-3624b801e3cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in with Fanatics ID']/parent::*</value>
+      <webElementGuid>07c45dde-79e7-465a-9688-b07d5f758a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>f3743340-7ff5-4d73-b59a-b7a95c7bdad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log in with Fanatics ID' or . = 'Log in with Fanatics ID')]</value>
+      <webElementGuid>63dd129d-1e74-4907-95f0-618330772411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

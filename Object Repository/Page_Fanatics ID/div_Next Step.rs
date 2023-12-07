@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next Step</name>
+   <tag></tag>
+   <elementGuidId>a2c47b80-50ef-48a8-9649-070b869c7985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div/form/div[2]/div/div/div/div/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d9304de-db67-4ba4-bce0-008ba3c9fbcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-space ant-space-horizontal ant-space-align-center </value>
+      <webElementGuid>2b5193a1-471d-4b38-ae54-5b8708c8306f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Step</value>
+      <webElementGuid>de780730-532e-474f-876f-71e88e4785d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout Layout_layout__m8Vdf css-g9hr2g&quot;]/main[@class=&quot;ant-layout-content Layout_content__-XVhO Theme_dark__XLgYe css-g9hr2g&quot;]/div[@class=&quot;ContentLayout_contentLayout__K97Ef&quot;]/div[@class=&quot;flex-column&quot;]/form[@class=&quot;ant-form ant-form-horizontal css-g9hr2g&quot;]/div[@class=&quot;ant-form-item css-g9hr2g&quot;]/div[@class=&quot;ant-row ant-form-item-row css-g9hr2g&quot;]/div[@class=&quot;ant-col ant-form-item-control css-g9hr2g&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/button[@class=&quot;ant-btn css-1db654g ant-btn-round ant-btn-primary&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;]</value>
+      <webElementGuid>ba79bfe0-48ef-4fe4-9683-682daa6e2e90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/form/div[2]/div/div/div/div/button/div</value>
+      <webElementGuid>7d1f6155-598f-4f5f-b811-aae955cc6bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[6]</value>
+      <webElementGuid>de2413c0-16ed-4832-97fb-5d6c75af0145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create one now!'])[1]/preceding::div[1]</value>
+      <webElementGuid>d8a7747e-6f98-4991-b6a1-e79eed0195e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next Step']/parent::*</value>
+      <webElementGuid>6350b24a-5fb4-452a-bfe9-03feef99ef81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>c587d448-9a55-4981-b96b-e5b9a6c4c6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Next Step' or . = 'Next Step')]</value>
+      <webElementGuid>bd1ad921-3061-4bc7-9994-e6bd65118fc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
